@@ -757,9 +757,16 @@
       ]
     }
   },
-  "Workflow": {
+"Workflow": {
     "BusinessService": {
       "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
+    },
+    "BusinessServiceMasterConfig": {
+      "masterName": "BusinessServiceMasterConfig",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.businessService"
