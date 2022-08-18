@@ -5,7 +5,7 @@
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "bannerImage":"https://subha-digit-assets.s3.ap-south-1.amazonaws.com/PGR.png",
       "active": true,
       "order":2,
       "tenants": [
@@ -30,7 +30,7 @@
     {
       "module": "PT",
       "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "bannerImage": "https://subha-digit-assets.s3.ap-south-1.amazonaws.com/PT.png",
       "active": true,
       "order":1,
       "tenants": [
